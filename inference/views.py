@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.views import View
-import cv2, numpy as np
+import cv2
+import numpy as np
 from .services.inference_service.inference_engine import Inference
 from PIL import Image
 # Create your views here.
