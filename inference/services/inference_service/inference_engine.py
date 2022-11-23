@@ -171,7 +171,7 @@ class Inference:
         return processed_image
 
     def get_model(self):
-        model_file = open(self.model_path_name, "rb")
+        model_file = open('inference/services/inference_service/model/disease-classification.pkl', "rb")
         model = pickle.load(model_file)
         model_file.close()
         return model
