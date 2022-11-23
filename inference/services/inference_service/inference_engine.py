@@ -128,8 +128,6 @@ import pickle
 
 class Inference:
 
-    def __init__(self, model_path_name='inference/services/inference_service/model/disease-classification.pkl'):
-        self.model_path_name = model_path_name
 
     def image_classification(self, image):
         # Get the Model
