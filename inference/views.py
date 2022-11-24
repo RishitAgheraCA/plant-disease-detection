@@ -8,7 +8,7 @@ from PIL import Image
 # def home_page(request):
 #     return render(request, 'inference/index.html')
 
-
+# web: gunicorn --chdir ./crop_disease_detection crop_disease_detection.wsgi --log-file -
 class InferenceView(View):
     def get(self, request):
 
