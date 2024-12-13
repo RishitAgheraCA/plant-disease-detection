@@ -36,4 +36,4 @@ The notebook provides:
 - Visualizations of the results.
 
 ### View Online
-If you'd like to view the notebook online, use the [Jupyter nbviewer](httpsgithub.comRishitAgheraCAplant-disease-detectionblobmainleaf%20details%20extraction%20steps.ipynb) or open it in any compatible environment.
+If you'd like to view the notebook online, use the [Jupyter nbviewer](leaf details extraction steps.ipynb) or open it in any compatible environment.
