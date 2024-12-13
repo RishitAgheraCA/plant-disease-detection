@@ -28,7 +28,7 @@ This tool enables users to upload a photo of a plant's leaf to determine whether
 This tool is designed to assist in early detection of plant diseases, enabling timely intervention to maintain plant health.
 
 ## Jupyter Notebook
-For more details on the implementation, you can explore the [Plant Disease Detection Jupyter Notebook](path/to/your/notebook.ipynb).
+For more details on the implementation, you can explore the [Plant Disease Detection Jupyter Notebook](leaf details extraction steps.ipynb).
 
 The notebook provides:
 - An overview of the data preprocessing steps.
